@@ -1,3 +1,5 @@
+Angular 2 Auth0 Application (by Brad Traversy tutorial)
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
